@@ -1,0 +1,23 @@
+Puntos a reconocer
+    Conocer el usuario: 
+        https://github.com/leonard100           en este caso es leonard100
+        https://github.com/Leonardfernandez1    en este caso es Leonardfernandez1
+
+El creador del proyecto es: Leonardfernandez1 
+
+A) Crear un Issue en el repositorio Leonardfernandez1 
+
+1.- Seleccionar Issues
+2.- Clic en el botón New Issues
+3.- Itroducir el título del Issue y una Descipción 
+4.- Clic en el botón Create
+
+Flujo
+1.- Crear una rama 
+2.- Realizar cambios, agregar (add) y commit
+3.- En el github aparece el botón "Compare & pull request"
+4.- Agregar el tíulo y la descripción del Pull Request 
+5.- Seleccionar la rama base y la rama a fusionar
+6.- Agregar almenos un revisor "Reviewers"
+8.- Create Pull Request
+
