@@ -10,7 +10,7 @@ A) Crear un Issue en el repositorio Leonardfernandez1
 1.- Seleccionar Issues
 2.- Clic en el botón New Issues
 3.- Itroducir el título del Issue y una Descipción 
-4.- Clic en el botón Create
+4.- Clic en el botón "Create"
 
 Flujo
 1.- Crear una rama 
@@ -18,6 +18,17 @@ Flujo
 3.- En el github aparece el botón "Compare & pull request"
 4.- Agregar el tíulo y la descripción del Pull Request 
 5.- Seleccionar la rama base y la rama a fusionar
-6.- Agregar almenos un revisor "Reviewers"
-8.- Create Pull Request
+6.- Agregar almenos un revisor en el enlace "Reviewers"
+8.- Clic en el botón "Create Pull Request"
 
+Aceptar Pull Request
+1.- Seleccionar la opción Pull request
+2.- Seleccionar el pull request que vamos a revisar
+3.- Clic en el boton "Add your review"
+4.- clic en el botón "Submit review"
+5.- Escirbir los comentarios
+6.- Seleccionar la opción "approve"
+7.- Clic en el botón "Submit review"
+8.- Clic en el botón "Merge pull request"
+9.- Escribir el mensaje del "commit"
+10.- Clic en el botón "Confirm merge"
